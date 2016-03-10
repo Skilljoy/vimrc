@@ -1,0 +1,10 @@
+set nocompatible
+set mouse=a
+set backspace=2
+set t_Co=256
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set number
+set relativenumber
